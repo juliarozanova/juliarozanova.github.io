@@ -28,6 +28,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+collections:
+  - sections
+  - bib
+
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
