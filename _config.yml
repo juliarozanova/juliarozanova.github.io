@@ -31,7 +31,8 @@ sass:
 
 collections:
   - sections
-  - bib
+  - bibfirst
+  - bibetal
 
 # Options
 
