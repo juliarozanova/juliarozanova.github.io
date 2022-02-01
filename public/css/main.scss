@@ -132,10 +132,18 @@ header {
 .fa {
   color: #B02258;
   font-size: 2.5em !important; 
+  &:hover {
+    top: -5px;
+    text-shadow: 0 4px 5px rgba(0,0,0,0.2);
+  }
 }
 .ai {
   color: #B02258;
   font-size: 2.5em;
+  &:hover {
+    top: -5px;
+    text-shadow: 0 4px 5px rgba(0,0,0,0.2);
+  }
 }
 
 .card-author-list {
@@ -183,3 +191,4 @@ header {
     }
   }
 }
+
