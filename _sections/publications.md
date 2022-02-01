@@ -27,7 +27,6 @@ As an Et Al:
 <div class="band">
   {% for post in site.bibetal %}
     <a href="{{ post.url }} " class="card">
-      <img class="card-img-top" src="../../assets/{{ post.image }}" alt="Card image cap">
       <div class="card-body">
       <div class="container">
         <h5 class="card-title">{{ post.title }}</h5>
