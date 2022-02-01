@@ -6,7 +6,8 @@ tagline: Again
 url: https://juliarozanova.github.io
 baseurl: /
 permalink: pretty
-paginate: 5
+paginate: 3
+paginate_path: "blog/page:num"
 
 # Gems
 plugins:
