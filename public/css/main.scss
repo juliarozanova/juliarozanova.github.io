@@ -129,6 +129,15 @@ header {
   }
 }
 
+.card-img-top {
+    height:15em;
+    width:auto;
+    object-fit: cover;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center center;
+}
+
 .fa {
   color: #B02258;
   font-size: 2.5em !important; 
