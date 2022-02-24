@@ -5,5 +5,5 @@ blurb: a
 authors: Julia Rozanova
 keywords: Automata Theory, Category Theory, Stone Duality  
 date: 01/12/2018
-link: https://arxiv.org/abs/2112.08289
+link: http://scholar.sun.ac.za/handle/10019.1/105807
 --- 
