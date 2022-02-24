@@ -1,6 +1,7 @@
 ---
 title: Updates
 layout: page
+date: 05/01/1100
 ---
 
 I am currently looking for an **internship** for the summer of 2022! 

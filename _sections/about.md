@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+date: 01/01/1100
 ---
 
 I am a final year Computer Science PhD Student at the University of Manchester, supervised by [Andre Freitas](http://andrefreitas.org) and [Uli Sattler](http://www.cs.man.ac.uk/~sattler/). I am part of the *Reasoning and Explainable AI* lab ([ExplAIn Lab](https://ai-systems-lab.org/)).
