@@ -25,7 +25,7 @@ As a First Author:
 As an Et Al:
 </h2>
 <div class="band">
-  {% for post in site.bibetal %}
+  {% for post in site.bibetal reversed %}
     <a href="{{ post.link }} " class="card">
       <!-- <img class="card-img-top" src="../../assets/{{ post.image }}" alt="Card image cap"> -->
       <div class="card-body">

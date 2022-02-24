@@ -4,6 +4,5 @@ title: "∂-Explainer: Abductive Natural Language Inference via Differentiable C
 authors: Mokanarangan Thayaparan, Marco Valentino, Deborah Ferreira, Julia Rozanova, Andre Freitas
 venue: UNDER REVIEW (ACL 2022), Preprint Available
 link: https://arxiv.org/abs/2105.03417
+date: 01/01/1100
 ---
-
-d
