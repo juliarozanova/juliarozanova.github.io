@@ -2,7 +2,7 @@
 highlighter:      Rouge
 
 title: Julia Rozanova
-tagline: Again
+# tagline: 
 url: https://juliarozanova.github.io
 baseurl: /
 permalink: pretty
@@ -10,7 +10,7 @@ paginate: 3
 paginate_path: "blog/page:num"
 
 # Gems
-plugins:
+plugins_dir:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
