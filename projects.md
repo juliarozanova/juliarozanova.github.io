@@ -1,12 +1,12 @@
 ---
-title: Dissertations
+title: Projects
 layout: page
-date: 04/01/1100
+permalink: /projects/
 ---
 
 <div>
 <div class="band">
-  {% for post in site.dissertations %}
+  {% for post in site.projects %}
     <a href="{{ post.link }} " class="card">
       <img class="card-img-top" src="../../assets/{{ post.image }}" alt="Card image cap">
       <div class="card-body">
@@ -19,3 +19,4 @@ date: 04/01/1100
     </a>
   {% endfor %}
 </div>
+

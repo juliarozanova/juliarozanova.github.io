@@ -5,4 +5,5 @@ blurb: A probing study on how intermediate features in natural logic are capture
 authors: Julia Rozanova, Deborah Ferreira, Mokanarangan Thayaparan, Marco Valentino, Andre Freitas
 venue: BlackBoxNLP @ EMNLP 2022
 link: https://arxiv.org/abs/2112.08289
+date: 01/12/2021
 --- 

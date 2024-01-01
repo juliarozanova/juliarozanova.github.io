@@ -44,6 +44,27 @@
     margin-left: var(--spacer);
   }
 }
+#glasses {
+    background-image: url(../../assets/cat-eye-glasses.svg);
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2rem;
+    margin-bottom: -1rem;
+    /* make a square container */
+    width: 100px;
+    height:100px;
+
+    /* fill the container, preserving aspect ratio, and cropping to fit */
+    background-size: cover;
+
+    /* center the image vertically and horizontally */
+    background-position: top center;
+
+    /* round the edges to a circle with border radius 1/2 container size */
+    border-radius: 50%;
+}
 
 #avatar {
     /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
@@ -78,7 +99,7 @@ header {
   background: white;
   text-decoration: none;
   color: #444;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   display: flex;
   flex-direction: column;
   min-height: 100%;

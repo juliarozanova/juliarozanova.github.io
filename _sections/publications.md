@@ -8,7 +8,7 @@ date: 03/01/1100
 As a First Author:
 </h2>
 <div class="band">
-  {% for post in site.bibfirst %}
+  {% for post in site.bibfirst reversed %}
     <a href="{{ post.link }} " class="card">
       <img class="card-img-top" src="../../assets/{{ post.image }}" alt="Card image cap">
       <div class="card-body">

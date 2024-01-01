@@ -1,13 +1,17 @@
 # Setup
-highlighter:      Rouge
+highlighter: Rouge
+
 
 title: Julia Rozanova
-# tagline: 
+tagline: 
 url: https://juliarozanova.github.io
 baseurl: /
 permalink: pretty
 paginate: 3
 paginate_path: "blog/page:num"
+
+#Build Settings
+markdown: kramdown
 
 # Gems
 plugins_dir:
@@ -30,10 +34,13 @@ sass:
   style: :compressed
 
 collections:
-  - sections
-  - bibfirst
-  - bibetal
-  - dissertations
+  sections:
+  projects:
+    output: True
+  bibfirst:
+  bibetal:
+  dissertations:
+  posts:
 
 # Options
 

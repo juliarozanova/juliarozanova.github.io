@@ -1,7 +1,7 @@
 ---
 image: 'msc.png'
-title: "A Duality-Theoretic Perspective on Formal Languages and Recognition"
-blurb: a
+title: "(MSc) A Duality-Theoretic Perspective on Formal Languages and Recognition"
+blurb: 
 authors: Julia Rozanova
 keywords: Automata Theory, Category Theory, Stone Duality  
 date: 01/12/2018
